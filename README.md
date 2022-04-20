@@ -19,4 +19,4 @@ python3 push_data_to_cassandara.py
 Xem dữ liệu ở  Kafka Consumer
  
  
-![alt text](https://ibb.co/QnD735d)
+![alt text](https://github.com/thuongle2210/Real-time-data-pipeline-/blob/main/Screenshot%20from%202022-04-20%2020-59-55.png)
